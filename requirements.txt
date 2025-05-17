@@ -1,0 +1,9 @@
+streamlit==1.32.0
+langchain>=0.1.12
+langchain-community>=0.0.28
+langchain-ollama
+chromadb==0.4.24
+PyPDF2==3.0.1
+python-docx==1.1.0
+tiktoken==0.6.0
+unstructured==0.12.5  # For better document parsing

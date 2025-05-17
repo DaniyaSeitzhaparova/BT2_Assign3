@@ -1,0 +1,46 @@
+[
+  {
+    "role": "user",
+    "content": "what is the state language of republic of kazakhstan?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided Constitution of Kazakhstan, the state language of the Republic of Kazakhstan is the Kazakh language. According to Article 7, \"The state language of the Republic of Kazakhstan shall be the Kazakh language.\"",
+    "sources": [
+      [
+        "scope, and limits of the rights of proprietors, and guarantees of their protection shall be determined by law. \n3. The state shall own the land and underground resources, waters, flora and fauna, and other natural resources. The land may  \nalso be privately owned on terms, conditions and within limits established by law. \nArticle 7 \n1. The state language of the Republic of Kazakhstan shall be the Kazakh language. \n2. Russian language shall be officially used on equal grounds along with the Kazakh language in state institutions and local self-\nadministrative bodies. \n3. The state shall promote conditions for the study and development of the languages of the people of Kazakhstan. \nArticle 8 \nThe Republic of Kazakhstan shall respect principles and norms of international law, shape policy of cooperation and good-\nneighbourly relations between states, their equality and non- interference in each other’s domestic affairs, peaceful settlement of",
+        0
+      ],
+      [
+        "scope, and limits of the rights of proprietors, and guarantees of their protection shall be determined by law. \n3. The state shall own the land and underground resources, waters, flora and fauna, and other natural resources. The land may  \nalso be privately owned on terms, conditions and within limits established by law. \nArticle 7 \n1. The state language of the Republic of Kazakhstan shall be the Kazakh language. \n2. Russian language shall be officially used on equal grounds along with the Kazakh language in state institutions and local self-\nadministrative bodies. \n3. The state shall promote conditions for the study and development of the languages of the people of Kazakhstan. \nArticle 8 \nThe Republic of Kazakhstan shall respect principles and norms of international law, shape policy of cooperation and good-\nneighbourly relations between states, their equality and non- interference in each other’s domestic affairs, peaceful settlement of",
+        0
+      ],
+      [
+        "THE CONSTITUTION OF KAZAKHSTAN \n \n \nAdopted by referendum on August 30, 1995. \nEntered into force on September 5, 1995. \nAmendments and additions were made on October 7, 1998, May 21, 2007, \nFebruary 2, 2011, March 10, 2017, March 23, 2019, June 8, 2022, September 17, 2022. \nWe, the people of Kazakhstan, united by a common historic fate, creating a state on the indigenous Kazakh land, considering \nourselves a peace-loving and civil society, dedicated to the ideals of freedom, equality and concord, wishing to take a worthy place \nin the world community, realizing our high responsibility before the present and future generations, proceeding from our sovereign \nright, accept this CONSTITUTION. \nSection I. General Provisions \nArticle 1 \n1. The Republic of Kazakhstan proclaims itself as a democratic, secular, legal and social state whose highest values are a person, \nhis life, rights, and freedoms.",
+        0
+      ]
+    ]
+  },
+  {
+    "role": "user",
+    "content": "Which body is responsible for amending the Constitution of Kazakhstan?"
+  },
+  {
+    "role": "assistant",
+    "content": "According to Article 98 of the Constitution of Kazakhstan, the bodies of justice and investigation provided for by the Constitution shall be formed in the manner and within the periods stipulated by the relevant laws. Prior to their formation, the existing justice and investigation bodies shall retain their authority. Therefore, it is not clear which body is responsible for amending the Constitution of Kazakhstan, as this responsibility is not explicitly stated in the provided articles.",
+    "sources": [
+      [
+        "Article 96 \nFrom the day  the Constitution enters into force, the Cabinet of Ministers of the Republic of Kazakhstan acquires the rights, duties \nand responsibilities of the Government of the Republic of Kazakhstan established by it. \nArticle 97 \nThe first composition of the Constitutional Council of the Republic of Kazakhstan is formed as follows: each of the President  of the \nRepublic, the Chairperson of the Senate of Parliament and the Chairperson of the Mazhilis of the Parliament shall appoint one \nmember of the Constitutional Council for a term of three years, with the exception of the Chairperson of the Constitutional Council \nwho shall be appointed by the President Republic for a period of six years. \nArticle 98 \n1. The bodies of justice and investigation provided for by  the Constitution  shall be formed in the manner and within the periods \nstipulated by the relevant laws. Prior to their formation, the existing justice and investigation bodies shall retain their authority.",
+        0
+      ],
+      [
+        "Article 96 \nFrom the day  the Constitution enters into force, the Cabinet of Ministers of the Republic of Kazakhstan acquires the rights, duties \nand responsibilities of the Government of the Republic of Kazakhstan established by it. \nArticle 97 \nThe first composition of the Constitutional Council of the Republic of Kazakhstan is formed as follows: each of the President  of the \nRepublic, the Chairperson of the Senate of Parliament and the Chairperson of the Mazhilis of the Parliament shall appoint one \nmember of the Constitutional Council for a term of three years, with the exception of the Chairperson of the Constitutional Council \nwho shall be appointed by the President Republic for a period of six years. \nArticle 98 \n1. The bodies of justice and investigation provided for by  the Constitution  shall be formed in the manner and within the periods \nstipulated by the relevant laws. Prior to their formation, the existing justice and investigation bodies shall retain their authority.",
+        0
+      ],
+      [
+        "Article 96 \nFrom the day  the Constitution enters into force, the Cabinet of Ministers of the Republic of Kazakhstan acquires the rights, duties \nand responsibilities of the Government of the Republic of Kazakhstan established by it. \nArticle 97 \nThe first composition of the Constitutional Council of the Republic of Kazakhstan is formed as follows: each of the President  of the \nRepublic, the Chairperson of the Senate of Parliament and the Chairperson of the Mazhilis of the Parliament shall appoint one \nmember of the Constitutional Council for a term of three years, with the exception of the Chairperson of the Constitutional Council \nwho shall be appointed by the President Republic for a period of six years. \nArticle 98 \n1. The bodies of justice and investigation provided for by  the Constitution  shall be formed in the manner and within the periods \nstipulated by the relevant laws. Prior to their formation, the existing justice and investigation bodies shall retain their authority.",
+        0
+      ]
+    ]
+  }
+]
